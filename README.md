@@ -6,4 +6,4 @@ This project's purpose is studying algorithm and ML.
 The subject is from kaggle competition(https://www.kaggle.com/c/traveling-santa-2018-prime-paths).
 I will add references while proceeding project.
 
-Using Language: Python3
+Using Language: jupyter notebook(Python3)
