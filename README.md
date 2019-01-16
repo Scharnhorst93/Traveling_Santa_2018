@@ -12,7 +12,7 @@ I will add references while proceeding project.
 Using Language: jupyter notebook(Python3)
 
 I used package called pyconcorde.  
-Concorde is written in ANSI C, and pyconcorde is python wrapper that makes concorde works with python.  
+Concorde is written in ANSI C, and pyconcorde is a python wrapper that makes concorde works with python.  
 Very useful thing. But it has some problems.  
 - I can't put prime-city-list-thing in solver. So if you see the 10th cities that is prime cities, that's just lucky.  
 - Solver does not respect time_bound. Sometimes works, sometimes not works. 
