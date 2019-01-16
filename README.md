@@ -14,5 +14,5 @@ Using Language: jupyter notebook(Python3)
 References  
 -------------
 Theo Viel, Greedy Reindeer - Starter code, https://www.kaggle.com/theoviel/greedy-reindeer-starter-code  
-Andre Sionek, Object Oriented Santa’s Route + Concorde Solver, https://www.kaggle.com/andresionek/object-oriented-santa-s-route-concorde-solver
-jvkersch, pyconcorde, https://github.com/jvkersch/pyconcorde
+Andre Sionek, Object Oriented Santa’s Route + Concorde Solver, https://www.kaggle.com/andresionek/object-oriented-santa-s-route-concorde-solver  
+jvkersch, pyconcorde, https://github.com/jvkersch/pyconcorde  
