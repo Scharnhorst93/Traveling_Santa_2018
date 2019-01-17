@@ -1,15 +1,16 @@
 Traveling Santa 2018 -Prime Paths (kaggle competition)
 =========================================
 
+Department of Computer Engineering, Chosun University  
 Author: Jijong Park, jjp9303kr@icloud.com  
 Supervisor: In-seop Na, ypencil@hanmail.net  
-Starting Project 2019.1.7
+Starting Project 2019.1.7  
 
 This project's purpose is studying algorithm.  
 The subject is from kaggle competition named [Traveling Santa 2018 - Prime Paths](https://www.kaggle.com/c/traveling-santa-2018-prime-paths).  
 I will add references while proceeding project.
 
-Using Language: jupyter notebook(Python3)
+Using Language: jupyter notebook(Python3)  
 
 I used package called pyconcorde.  
 Concorde is written in ANSI C, and pyconcorde is a python wrapper that makes concorde works with python.  
